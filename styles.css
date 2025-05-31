@@ -1,2 +1,25 @@
-
+body{
+	font-family: Arial, sans-serif;
+}
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 20px auto;
+}
+.Header{
+	color: white;
+	background-color: red;
+}
+.Waist{
+	color: white;
+	background-color: pink;
+}
+.Chest{
+	color: black;
+	background-color: peach;
+}
+.Sleeve{
+	color: black;
+	background-color: grey;
+}
 /* Your CSS Code here. */
